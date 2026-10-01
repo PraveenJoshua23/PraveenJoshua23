@@ -20,10 +20,10 @@ Right now I'm building internal tools and client platforms for **Nuecrea**, incl
 | Project | What it is | Stack |
 |---|---|---|
 | **Manuscript** *(in development)* | Markdown writing app with an AI agent, "the Interrogator", that challenges your creative choices as you draft, grounded in a persistent Story Bible (RAG) | Angular · FastAPI · Postgres/pgvector · OpenAI |
-| **Nuecrea Dashboard** *(client work)* | Operations dashboard for three agencies: Kanban boards, project checklists, pluggable analytics, team tracking | Next.js · Cloudflare Workers · D1 |
-| **Nuecrea Platform** *(client work)* | Realty portal and property-management system sharing one backend | FastAPI · Postgres/PostGIS · Next.js monorepo |
+| **Nuecrea Dashboard** | Operations dashboard for three agencies: Kanban boards, project checklists, pluggable analytics, team tracking | Next.js · Cloudflare Workers · D1 |
+| **Nuecrea Platform** *(in development)* | Realty portal and property-management system sharing one backend | FastAPI · Postgres/PostGIS · Next.js monorepo |
 | [**Velox Immigration**](https://velox-immigration.vercel.app) | Immigration consultancy website with a headless CMS for content | HTML · Strapi CMS |
-| **IBA Portal** | Online course dashboard for IBA | TypeScript |
+| **IBA Portal** *(client work)* | Online course dashboard for IBA | TypeScript |
 | [**LinguistAI**](https://github.com/PraveenJoshua23/linguistai) | AI-assisted language-learning app (in progress) | TypeScript |
 | [**Markdoc Custom Format Generator**](https://github.com/PraveenJoshua23/markdoc-custom-format-generator) | Generates custom Markdoc blocks for developer-portal content | TypeScript |
 
